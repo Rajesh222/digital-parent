@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: satyam.kumar
+Build-Jdk: 9.0.4
+Implementation-Title: digital-consumer Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.digital.bihar
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
